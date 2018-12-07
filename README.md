@@ -9,7 +9,7 @@ Instructions of the game:
 	
 	Food options:
 		- Salad: decreases hunger by 10%, increases boredom by 10%, and decreases sickness by 10% 
-	    - Candy: decreases hunger by 10%, increases boredom by 10%, but increases sickness by 10%
+	 	- Candy: decreases hunger by 10%, increases boredom by 10%, but increases sickness by 10%
 		- Pretzels: decreases hunger by 10%, increases boredom by 10%, and increases thirst by 10%
 	
 	Drink options:
@@ -22,7 +22,7 @@ Instructions of the game:
 	Boredom: 
 		- Toy: decreases boredom by 10%, increases hunger and thirst by 10%
 		- Game: guessing the right number decreases boredom by 10%, increases hunger and thirst by 10%
-				guessing the wrong number increases hunger and thirst by 10%
+			guessing the wrong number increases hunger and thirst by 10%
 		- Vacation: resets boredom level to 0%
 			- Mumbai: increases sickness by 20%
 			- New York: increases hunger by 10%
